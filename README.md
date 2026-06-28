@@ -15,7 +15,7 @@ Aplicación web para reserva de vuelos construida con React + TypeScript, que co
 pnpm install
 
 # 2. Correr en modo desarrollo
-pnpm dev
+pnpm run dev
 ```
 
 La app estará disponible en `http://localhost:5173`.
